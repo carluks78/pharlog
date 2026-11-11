@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://pharlog.fr/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://pharlog.fr/qui-sommes-nous</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://pharlog.fr/solution-wms</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://pharlog.fr/compatibilite-lgo</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://pharlog.fr/accompagnement</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://pharlog.fr/fournitures</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://pharlog.fr/realisations</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://pharlog.fr/actualites</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://pharlog.fr/actualites/5-signes-reorganiser-depot</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://pharlog.fr/actualites/pourquoi-un-wms</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://pharlog.fr/actualites/cartobacs</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://pharlog.fr/actualites/logistique-2027</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://pharlog.fr/contact</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://pharlog.fr/mentions-legales</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://pharlog.fr/rgpd</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://pharlog.fr/cgv</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+</urlset>
