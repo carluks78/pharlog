@@ -1,0 +1,11 @@
+{
+  "title": "PHARLOG",
+  "description": "Explore PHARLOG’s WMS solutions, services, and supplies for pharmacies, with guidance to optimize stockroom logistics and request a free audit or demo.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
